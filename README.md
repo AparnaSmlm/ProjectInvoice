@@ -13,8 +13,9 @@ Framework - codeigniter
  --Insert values to textbox provided  and click "Add row" button to add new particulars.
  --Now particulars will get listed down.
  --Delete button is provided to delete if any.
- --Provide discount in numericals ( select $ or %  by default $)if any to get the total.
- --Click Generate pdf button to generate pdf
+ --Provide discount in numericals ( select $ or %  by default $)if any.
+ --Click Calculate Total button to get total.
+ --Click Generate pdf button to generate pdf.
  
  
  
